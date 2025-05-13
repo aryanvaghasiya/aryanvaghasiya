@@ -15,7 +15,7 @@ I'm a passionate developer and tech enthusiast with a love for solving problems 
 - **AI/ML** tools and frameworks to integrate intelligent systems into apps.
 
 ## 💬 Let's Connect and Collaborate!
-- **LinkedIn:** [Connect with me]([https://www.linkedin.com/in/aryanvaghasiya](https://www.linkedin.com/in/aryan-vaghasiya-12a512291/))
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/aryan-vaghasiya-12a512291/)
 - **GitHub:** You're already here! Check out my projects and contributions.
 
 ## 📈 GitHub Stats
