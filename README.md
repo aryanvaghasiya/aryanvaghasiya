@@ -20,6 +20,5 @@ I'm a passionate developer and tech enthusiast with a love for solving problems 
 
 ## 📈 GitHub Stats
 ![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryanvaghasiya&show_icons=true&theme=radical)
-![Visitor Count](https://komarev.com/ghpvc/?username=aryanvaghasiya&color=brightgreen)
 ---
 🌟 *Feel free to explore my repositories and reach out if you want to collaborate on something awesome!* 🌟
