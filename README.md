@@ -20,24 +20,6 @@ I'm a passionate developer and tech enthusiast with a love for solving problems 
 
 ## 📈 GitHub Stats
 ![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryanvaghasiya&show_icons=true&theme=radical)
-
-<!-- <div><img src="https://github-readme-stats.vercel.app/api?username=Vidhish-Trivedi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  -->
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryanvaghasiya&theme=tokyonight&show_icons=true)
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanvaghasiya&show_icons=true&locale=en&layout=compact" alt="aryanvaghasiya" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanvaghasiya&show_icons=true&locale=en" alt="aryanvaghasiya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanvaghasiya&" alt="aryanvaghasiya" /></p>
-
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhish-Trivedi&theme=tokyonight&show_icons=true) -->
-
-<!-- ## 🏆GitHub Trophies -->
-<!-- ![](https://github-profile-trophy.vercel.app/?username=Vidhish-Trivedi&theme=discord&no-frame=true&no-bg=false&margin-w=4) -->
-
-
+![Visitor Count](https://komarev.com/ghpvc/?username=aryanvaghasiya&color=brightgreen)
 ---
 🌟 *Feel free to explore my repositories and reach out if you want to collaborate on something awesome!* 🌟
