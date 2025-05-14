@@ -4,7 +4,7 @@
 I'm a passionate developer and tech enthusiast with a love for solving problems and building innovative solutions. I enjoy learning new technologies and exploring how they can be used to make an impact.
 
 ## 🔭 What I'm Working On
-- **Open Source Contributions:** Actively contributing to open source projects to learn and grow.
+<!-- **Open Source Contributions:** Actively contributing to open source projects to learn and grow.-->
 - **Personal Projects:** Experimenting with tools and frameworks in software development.
 - **Learning:** Continuously improving my skills in AI/ML and SDE concepts.
 ## 🌱 What I'm Learning
